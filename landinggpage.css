@@ -1,0 +1,67 @@
+*{
+    position: relative;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    .navbar {
+        background-color: aquamarine;
+        position: sticky;
+        top: 0px;
+        width: auto;
+        height: 100px;
+    }
+
+    .images {
+        background-color: rgb(206, 206, 165);
+        border: dou black;
+    }
+
+#linkin {
+    float: right;
+    border: 5px;
+    padding: 5px;
+    background-color: blueviolet;
+}
+#eminem {
+    position: relative;
+    right: -180px;
+    border: 5px;
+    padding: 5px;
+    background-color: blueviolet;
+}
+#neffex {
+    border: 5px;
+    padding: 5px;
+    background-color: blueviolet;
+}
+.lirycs {
+    background-color: rgb(93, 196, 119);
+    display: inline;
+}
+
+.intro {
+    background-color: aquamarine;
+    margin-top: 80px;
+}
+#links {
+   
+    display: inline;
+    background-color: rgb(165, 114, 114);
+}
+h2{
+    background-color: aquamarine;
+    font-variant-caps: small-caps;
+    display: inline;
+}
+#body{
+    background-position: 50px;
+    background-color: beige;
+}
+#Menus {
+    background-color: brown;
+    display: inline;
+}
+footer{
+    background-color: brown;
+    height: 30px;
+    bottom: 0px;
+}
